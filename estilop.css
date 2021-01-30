@@ -1,0 +1,132 @@
+*{padding: 0%; margin: 0%;border: 0px;}
+
+/*definindo o escopo padrão do site*/
+.cabecario{
+    background-color: gray;
+    height: 100pt;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    padding: 10px;
+    display: flex;
+}
+
+/*logo principal da esquerda*/
+.cabecario img{
+    height: 70pt;
+    width: 70pt;
+    border-radius: 100%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.cabecario img:hover{
+    padding: black solid 1px;
+}
+
+    .header{
+        border-radius: 15pt;
+        background-color: #CE4241;
+        margin-left: 10%;
+        float: left;
+        margin-top: 20px;
+        font-size:24pt;
+        font-family: monospace;
+        height: 70pt;
+        position: absolute;
+        }
+        /*paletademonstrativa*/
+    #paletadecores{
+        margin-top: 120pt;
+        font-size: 20px;
+        float: left;
+    }
+    #paletadecores1{
+        margin-top: 120pt;
+        font-size: 20px;
+        float: left;
+    }
+  #aa{
+      
+        background-color: #B35C01 ;
+    }
+    #ae{
+        background-color: #E66437 ;     
+    }
+    #ai{
+        background-color: #CF4242 ;
+    }
+    #ao{
+        background-color: #EB6EDC ;
+    }
+    #au{
+        background-color: #9027DB ;
+    }
+
+    .linkmenu{
+        margin-left: 18%;
+        margin-top: 20PX;
+        margin-left: 850pt;
+        position: absolute;
+        }
+       
+    .linkmenu i{
+        color: #CF4242;
+    }
+    .linkmenu i:hover{
+        background-color:rgb(158, 156, 156) ;
+        border: black solid 1px;
+        border-radius: 15px;
+        padding: 5px;
+        transition:all 0.3s ease;
+    }
+    .linhadivi{
+        background-color: #CF4242;
+        width: 100%;
+        height: 5px;
+        position: absolute;
+    }
+    .linhadivi2{
+        background-color: #CF4242;
+        width: 100%;
+        height: 5px;
+        position: absolute;
+        margin-top: 111pt;
+    }
+    /*menu que aparece ao hover sobre icone*/
+    /*tirando os pontos da lista*/
+    .menu ul{
+        list-style: none;
+    }
+    /*estilizando menu lateral*/
+    .menu{
+        
+        margin-top: 120pt;
+        float: right;
+        width: 150pt;
+        height: 150pt;
+        margin-right: 20px;
+        background-color: #CF4242;
+        font-size: 24px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    /*configurando aparição do menu ao hover icone*/
+    /*falta resolver*/
+   
+   /*definindo página corpo */
+   .corpo{
+       background-color: grey;
+       
+       display: flex;
+       margin-top: 115pt;
+       width: 100%;
+       height: 100%;
+   }
+  
+   .tituloprincipal{
+        text-align: center;
+        background-color: #9027DB;
+        height: 100%;
+        
+   }

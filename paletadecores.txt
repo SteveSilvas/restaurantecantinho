@@ -1,0 +1,33 @@
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #691F1B; }
+.My-Color-Theme-2-hex { color: #EC8984; }
+.My-Color-Theme-3-hex { color: #E8453D; }
+.My-Color-Theme-4-hex { color: #693D3B; }
+.My-Color-Theme-5-hex { color: #B5362F; }
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba { color: rgba(105, 31, 27, 1); }
+.My-Color-Theme-2-rgba { color: rgba(236, 137, 132, 1); }
+.My-Color-Theme-3-rgba { color: rgba(232, 69, 61, 1); }
+.My-Color-Theme-4-rgba { color: rgba(105, 61, 59, 1); }
+.My-Color-Theme-5-rgba { color: rgba(181, 54, 47, 1); }
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { color: hsla(3, 59, 25, 1); }
+.My-Color-Theme-2-hsla { color: hsla(2, 73, 72, 1); }
+.My-Color-Theme-3-hsla { color: hsla(2, 78, 57, 1); }
+.My-Color-Theme-4-hsla { color: hsla(2, 28, 32, 1); }
+.My-Color-Theme-5-hsla { color: hsla(3, 58, 44, 1); }
+
+paleta cromatica definida pelo centro com adobecolor
+1
+#691F1B
+2
+#EC8984
+3
+#E8453D
+4
+#693D3B
+5
+#B5362F
+
